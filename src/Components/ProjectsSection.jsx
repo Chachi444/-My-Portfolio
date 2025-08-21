@@ -33,11 +33,11 @@ const projects = [
     
     {
         id: 4,
-        title: "Project Four",
-        description: "This is a description of project four.",
-        image:  "/assets/project 2.png",
-        tags: ["React", "Node.js", "CSS"],
-        github: "https://github.com/user/project-four",
+        title: "Subscription Tracker",
+        description:"A robust backend REST API built with Node.js that helps users manage their subscription services with intelligent automation, security, and real-time notifications. This production-ready application demonstrates modern backend development practices with enterprise-grade features.",
+        image:  "/assets/Subscription.png",
+        tags: ["Node.js", "Express", "MongoDB", "JWT", "REST API"],
+        github: "https://github.com/Chachi444/Subscription-Tracker",
         liveDemo: "https://project-four.example.com"
     },
 
@@ -48,7 +48,7 @@ const projects = [
         image: "/assets/project 1.png",
         tags: ["React", "Node.js", "CSS"],
         github: "https://github.com/user/project-five",
-        liveDemo: "https://project-five.example.com"
+        liveDemo: "https://subscription-tracker-izvl.onrender.com/"
     }
 ]
 
