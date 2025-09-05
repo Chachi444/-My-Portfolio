@@ -43,12 +43,12 @@ const projects = [
 
     {
         id: 5,
-        title: "Project Five",
-        description: "This is a description of project five.",
-        image: "/assets/project 1.png",
-        tags: ["React", "Node.js", "CSS"],
-        github: "https://github.com/user/project-five",
-        liveDemo: "https://subscription-tracker-izvl.onrender.com/"
+        title: "SwiftMart",
+        description: "SwiftMart is a RESTful API for an e-commerce platform built with Node.js, Express, and MongoDB. It supports user authentication, product catalog, shopping cart, order processing, payments (with Paystack), reviews, and admin dashboard features.",
+        image: "/assets/SwiftMart.png",
+        tags: [ "Node.js", "Express", "MongoDB", "JWT"],
+        github: "https://github.com/Chachi444/SwiftMart",
+        liveDemo: "https://swiftmart-szt3.onrender.com/"
     }
 ]
 
